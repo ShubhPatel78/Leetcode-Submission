@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,12 @@
 |  |
 | ------- |
 | [2285-maximum-total-importance-of-roads](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2285-maximum-total-importance-of-roads) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
