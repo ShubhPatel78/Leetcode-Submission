@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0055-jump-game) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0881-boats-to-save-people](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0881-boats-to-save-people) |
@@ -68,6 +69,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0881-boats-to-save-people) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -135,6 +137,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0055-jump-game) |
 | [0799-champagne-tower](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0799-champagne-tower) |
 ## Binary Search
