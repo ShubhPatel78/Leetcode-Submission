@@ -9,6 +9,7 @@
 | [1311-get-watched-videos-by-your-friends](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1311-get-watched-videos-by-your-friends) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2285-maximum-total-importance-of-roads](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2285-maximum-total-importance-of-roads) |
 ## Depth-First Search
 |  |
@@ -50,6 +52,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2285-maximum-total-importance-of-roads](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2285-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
