@@ -61,6 +61,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
 | [1462-course-schedule-iv](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1462-course-schedule-iv) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2359-find-closest-node-to-given-two-nodes) |
@@ -162,13 +163,16 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
