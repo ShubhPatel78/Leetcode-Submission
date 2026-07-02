@@ -21,6 +21,7 @@
 | [2364-count-number-of-bad-pairs](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2364-count-number-of-bad-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1462-course-schedule-iv](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1462-course-schedule-iv) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -54,6 +56,7 @@
 | [1462-course-schedule-iv](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1462-course-schedule-iv) |
 | [2285-maximum-total-importance-of-roads](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2285-maximum-total-importance-of-roads) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2359-find-closest-node-to-given-two-nodes) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +92,7 @@
 |  |
 | ------- |
 | [2285-maximum-total-importance-of-roads](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2285-maximum-total-importance-of-roads) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
@@ -197,4 +201,12 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0145-binary-tree-postorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
