@@ -32,6 +32,7 @@
 | [0567-permutation-in-string](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0930-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1248-count-number-of-nice-subarrays) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -46,6 +47,7 @@
 | [0100-same-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1462-course-schedule-iv](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1462-course-schedule-iv) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0881-boats-to-save-people) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2285-maximum-total-importance-of-roads](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2285-maximum-total-importance-of-roads) |
@@ -74,6 +77,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1462-course-schedule-iv](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1462-course-schedule-iv) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2359-find-closest-node-to-given-two-nodes) |
 ## Topological Sort
@@ -192,6 +196,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -203,6 +208,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0145-binary-tree-postorder-traversal) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Matrix
 |  |
 | ------- |
