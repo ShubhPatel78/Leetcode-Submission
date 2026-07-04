@@ -18,6 +18,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2364-count-number-of-bad-pairs](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2364-count-number-of-bad-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -37,6 +38,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1248-count-number-of-nice-subarrays) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2364-count-number-of-bad-pairs](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2364-count-number-of-bad-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -68,6 +70,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2285-maximum-total-importance-of-roads](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2285-maximum-total-importance-of-roads) |
 ## Depth-First Search
 |  |
@@ -156,6 +159,7 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0992-subarrays-with-k-different-integers) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2364-count-number-of-bad-pairs](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2364-count-number-of-bad-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2833-furthest-point-from-origin) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3737-count-subarrays-with-majority-element-i) |
