@@ -117,6 +117,7 @@
 | [0881-boats-to-save-people](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0881-boats-to-save-people) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2285-maximum-total-importance-of-roads](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2285-maximum-total-importance-of-roads) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -164,6 +165,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2833-furthest-point-from-origin](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2833-furthest-point-from-origin) |
 ## Divide and Conquer
 |  |
@@ -214,6 +216,7 @@
 | [0567-permutation-in-string](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0567-permutation-in-string) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0881-boats-to-save-people](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0881-boats-to-save-people) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Stack
 |  |
 | ------- |
