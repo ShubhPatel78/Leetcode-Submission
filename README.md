@@ -90,6 +90,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2285-maximum-total-importance-of-roads](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2285-maximum-total-importance-of-roads) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | [1462-course-schedule-iv](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1462-course-schedule-iv) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Topological Sort
 |  |
 | ------- |
@@ -268,6 +270,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -299,6 +302,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
