@@ -224,6 +224,7 @@
 | [0523-continuous-subarray-sum](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1248-count-number-of-nice-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2364-count-number-of-bad-pairs) |
+| [2427-number-of-common-factors](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2427-number-of-common-factors) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
@@ -347,4 +348,12 @@
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
