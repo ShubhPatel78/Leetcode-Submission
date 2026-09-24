@@ -29,6 +29,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -225,6 +226,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/1248-count-number-of-nice-subarrays) |
 | [2364-count-number-of-bad-pairs](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2364-count-number-of-bad-pairs) |
 | [2427-number-of-common-factors](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/2427-number-of-common-factors) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ShubhPatel1478/Leetcode-Submission/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
